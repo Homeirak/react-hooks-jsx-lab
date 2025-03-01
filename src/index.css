@@ -60,5 +60,6 @@ nav a:active {
 }
 
 #about img {
-  max-height: 50%;
+  display: block;
+  /* max-height: 50%; */
 }
